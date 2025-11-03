@@ -1,0 +1,56 @@
+═══════════════════════════════════════════════════════════
+          💕 MODO ANIME ROMÂNTICA 💕
+       Um jogo de moda estilo Love Nikki!
+═══════════════════════════════════════════════════════════
+
+🎮 PERSONAGENS DISPONÍVEIS:
+═══════════════════════════════════════════════════════════
+
+⚡ Kakashi - O ninja do raio
+😇 Castiel - O anjo caído
+👁️ Itachi - O ninja misterioso
+🌊 Percy Jackson - O semideus do mar
+🗡️ Flynn Rider - O príncipe encantado
+
+
+🎯 COMO JOGAR:
+═══════════════════════════════════════════════════════════
+
+1. Clique em "Começar 💖"
+
+2. Escolha um dos 5 personagens
+
+3. Vista seu personagem escolhendo:
+   💇 Cabelo (4 estilos)
+   👔 Roupa de Cima (4 estilos)
+   👖 Roupa de Baixo (3 estilos)
+   👢 Sapatos (3 estilos)
+
+4. Clique em "Salvar Look 💾" para ver sua criação!
+
+5. Receba elogios românticos! 💕
+
+
+✨ RECURSOS:
+═══════════════════════════════════════════════════════════
+
+✅ 5 personagens incríveis de animes/filmes
+✅ Sistema de vestir estilo Love Nikki
+✅ Animações suaves e bonitas
+✅ Design romântico e colorido
+✅ Elogios personalizados
+✅ Totalmente responsivo (mobile e desktop)
+
+
+📱 COMO PUBLICAR ONLINE:
+═══════════════════════════════════════════════════════════
+
+1. Acesse: https://app.netlify.com/drop
+2. Arraste os 3 arquivos: index.html, styles.css, script.js
+3. Copie o link gerado
+4. Envie para sua namorada! 💖
+
+
+💖 DIVIRTA-SE VESTINDO SEUS PERSONAGENS FAVORITOS!
+
+

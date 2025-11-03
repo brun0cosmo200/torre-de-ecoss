@@ -1,0 +1,58 @@
+═══════════════════════════════════════════════════════════
+       COMO POSTAR SEU JOGO ONLINE (SUPER SIMPLES!)
+═══════════════════════════════════════════════════════════
+
+✅ OPÇÃO 1: NETLIFY (MAIS FÁCIL!)
+═══════════════════════════════════════════════════════════
+
+1. Acesse: https://app.netlify.com/drop
+   (Não precisa criar conta, é grátis!)
+
+2. Arraste estes 3 arquivos para a página:
+   ✅ index.html
+   ✅ styles.css
+   ✅ script.js
+
+3. Pronto! Você receberá um link tipo:
+   https://random-name-123.netlify.app
+
+4. Envie esse link para sua namorada! ❤️
+
+
+═══════════════════════════════════════════════════════════
+✅ OPÇÃO 2: GITHUB (Se você já tem conta)
+═══════════════════════════════════════════════════════════
+
+1. Acesse github.com e faça login
+
+2. Clique no botão "+" (canto superior direito)
+   → "New repository"
+
+3. Nome: digite qualquer coisa (ex: "jogo-especial")
+   → Deixe "Public" marcado
+   → Clique "Create repository"
+
+4. Na página que abrir, você verá várias opções
+   → Clique em "uploading an existing file" (botão grande)
+
+5. Arraste os 3 arquivos (index.html, styles.css, script.js)
+   → Clique em "Commit changes" (verde, embaixo)
+
+6. Vá em "Settings" (aba no topo)
+   → Clique em "Pages" (menu lateral esquerdo)
+
+7. Em "Source": escolha "Deploy from a branch"
+   → Branch: "main" ou "master"
+   → Clique em "Save"
+
+8. Aguarde 2 minutos
+   → Volte em "Pages" 
+   → Você verá seu link! tipo: https://seu-usuario.github.io/jogo-especial
+
+
+═══════════════════════════════════════════════════════════
+🎯 RECOMENDAÇÃO: Use NETLIFY (Opção 1) - É MUITO MAIS FÁCIL!
+═══════════════════════════════════════════════════════════
+
+Qualquer dúvida, me chama que eu ajudo! 😊
+

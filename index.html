@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torre de Ecos - Login</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-overlay"></div>
+    <div class="fog"></div>
+    
+    <div class="container">
+        <!-- Logo/Título -->
+        <div class="logo-section">
+            <h1 class="game-title">🏚️ TORRE DE ECOS 🏚️</h1>
+            <p class="game-subtitle">Os segredos nunca morrem...</p>
+        </div>
+
+        <!-- Container de Login/Cadastro -->
+        <div class="auth-container" id="auth-container">
+            
+            <!-- Tabs -->
+            <div class="tabs">
+                <button class="tab-btn active" id="login-tab">Entrar</button>
+                <button class="tab-btn" id="register-tab">Cadastrar</button>
+            </div>
+
+            <!-- Formulário de Login -->
+            <div class="form-container active" id="login-form">
+                <h2>Bem-vindo à Torre...</h2>
+                <form id="loginForm">
+                    <div class="input-group">
+                        <label for="login-username">Nome de Usuário</label>
+                        <input type="text" id="login-username" placeholder="Digite seu username" required>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="login-password">Senha</label>
+                        <input type="password" id="login-password" placeholder="Digite sua senha" required>
+                    </div>
+
+                    <div class="remember-forgot">
+                        <label class="remember-checkbox">
+                            <input type="checkbox" id="remember-me">
+                            <span>Lembrar-me</span>
+                        </label>
+                        <a href="#" class="forgot-link">Esqueceu a senha?</a>
+                    </div>
+
+                    <button type="submit" class="submit-btn">Entrar na Torre</button>
+                </form>
+            </div>
+
+            <!-- Formulário de Cadastro -->
+            <div class="form-container" id="register-form">
+                <h2>Junte-se aos Segredos</h2>
+                <form id="registerForm">
+                    <div class="input-group">
+                        <label for="register-username">Nome de Usuário</label>
+                        <input type="text" id="register-username" placeholder="Escolha um username único" required>
+                        <span class="input-hint">3-20 caracteres, apenas letras e números</span>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="register-email">Email</label>
+                        <input type="email" id="register-email" placeholder="seu@email.com" required>
+                    </div>
+                    
+                    <div class="input-group">
+                        <label for="register-password">Senha</label>
+                        <input type="password" id="register-password" placeholder="Mínimo 8 caracteres" required>
+                        <span class="input-hint">Use letras, números e símbolos</span>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="register-confirm">Confirmar Senha</label>
+                        <input type="password" id="register-confirm" placeholder="Digite a senha novamente" required>
+                    </div>
+
+                    <div class="terms">
+                        <label class="terms-checkbox">
+                            <input type="checkbox" id="terms" required>
+                            <span>Aceito os <a href="#">Termos de Serviço</a> e <a href="#">Política de Privacidade</a></span>
+                        </label>
+                    </div>
+
+                    <button type="submit" class="submit-btn">Subir à Torre</button>
+                </form>
+            </div>
+
+            <!-- Mensagens -->
+            <div class="message" id="message"></div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>© 2025 Torre de Ecos. Que seus ecos nunca cessem.</p>
+            <p class="footer-links">
+                <a href="#">Suporte</a> | 
+                <a href="#">Comunidade</a> | 
+                <a href="#">Discord</a>
+            </p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

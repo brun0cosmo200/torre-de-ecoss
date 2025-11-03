@@ -1,0 +1,57 @@
+═══════════════════════════════════════════════════════════
+         COMO POSTAR SEU JOGO ROMÂNTICO ONLINE
+            (AGORA FUNCIONA PERFEITO NO CELULAR!)
+═══════════════════════════════════════════════════════════
+
+✅ METODO MAIS FÁCIL: NETLIFY
+═══════════════════════════════════════════════════════════
+
+1️⃣ Abra no navegador:
+   👉 https://app.netlify.com/drop
+
+2️⃣ Arraste para lá os 3 arquivos:
+   ✅ index.html
+   ✅ styles.css  
+   ✅ script.js
+
+3️⃣ Aguarde 10 segundos
+
+4️⃣ Copie o link que aparecer (tipo: nome-aleatorio.netlify.app)
+
+5️⃣ Envie esse link para sua namorada! ❤️
+
+Ela vai poder jogar direto no celular dela! 💕
+
+
+═══════════════════════════════════════════════════════════
+🎮 O QUE FOI MELHORADO PARA MOBILE:
+═══════════════════════════════════════════════════════════
+
+✅ Botão "💖 PULAR 💖" grande e fácil de apertar
+✅ Toque em qualquer lugar da tela pula também
+✅ Canvas se adapta ao tamanho da tela do celular
+✅ Interface otimizada para telas pequenas
+✅ Textos e botões com tamanho ideal
+✅ Funciona em celular de qualquer tamanho
+
+
+═══════════════════════════════════════════════════════════
+📱 COMO JOGAR NO CELULAR:
+═══════════════════════════════════════════════════════════
+
+→ Toque no botão "Começar a Jornada ❤️"
+→ Toque no botão rosa "💖 PULAR 💖" para pular
+→ OU toque em qualquer lugar da tela do jogo
+→ Colete estrelas ⭐ para ganhar pontos
+→ Colete corações 💖 para ganhar vidas
+→ Evite os obstáculos 🚧
+
+
+═══════════════════════════════════════════════════════════
+💡 PRECISA DE AJUDA?
+═══════════════════════════════════════════════════════════
+
+Se tiver dúvidas, me fale que eu ajudo! 😊
+
+O jogo está 100% pronto e funciona perfeitamente! 🎉
+
